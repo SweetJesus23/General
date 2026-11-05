@@ -1,7 +1,7 @@
 #=========================================================
 #           ☺ Scripts by HowYouLikeMeNow ☺              ==
 #=========================================================
-# This will automatically any guild or alliance members ==
+# This will automatically and guild or alliance members ==
 # to your friends list.                                 ==
 #=========================================================
 # Set to auto start at login or to a hotkey.            ==
